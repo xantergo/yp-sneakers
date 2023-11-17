@@ -362,6 +362,8 @@ footer .nav-link {
 
     .sneakers {
         align-items: center;
+        display: flex;
+        justify-content: space-around;
     }
 
     .info {
